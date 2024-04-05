@@ -1,8 +1,8 @@
 ---
-title: MathJax and LaTeX
-author: Tao He
-date: 2023-10-14
-category: Jekyll
+title: Binary Classification
+author: Brian Jang
+date: 2024-04-06
+category: Deep Learning
 layout: post
 mermaid: true
 ---
