@@ -16,6 +16,9 @@ rss:              RSS
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
 
+assets:
+  self_host: true
+
 toc:
   enabled: true
   h_min: 1
