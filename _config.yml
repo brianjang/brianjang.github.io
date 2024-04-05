@@ -11,7 +11,7 @@ gitbook_version:  3.2.3
 
 url:              'https://brianjang.github.io'
 #baseurl:          '/jekyll-gitbook'
-baseurl:          '/'
+baseurl:          '/jekyll'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
