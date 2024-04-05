@@ -1,7 +1,7 @@
 ---
 title: Binary Classification
 author: Brian Jang
-date: 2024-04-06
+date: 2024-04-05
 category: Jekyll
 layout: post
 mermaid: true
